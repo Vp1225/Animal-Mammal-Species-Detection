@@ -3,7 +3,7 @@ This project focuses on developing advanced techniques to identify mammal specie
 
 To deploy the Detection or Classification model we used Streamlit
 
-#**Installation:-**
+##Installation:-
 
 **Clone the repository -**
 git clone https://github.com/Vp1225/Animal-Mammal-Species-Detection.git
