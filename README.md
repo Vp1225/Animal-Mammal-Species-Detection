@@ -3,6 +3,8 @@ This project focuses on developing advanced techniques to identify mammal specie
 
 To deploy the Detection or Classification model we used Streamlit
 
+Dataset is 
+
 **Installation:-**
 
 **Clone the repository -**
