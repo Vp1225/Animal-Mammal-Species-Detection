@@ -22,3 +22,5 @@ after activating the environment, install `**requirements.txt**`
 Then run the Web App by using this command - 
 
 `- streamlit run app2.py`
+
+View our Project- Animal Mammal Species Detection(link)
