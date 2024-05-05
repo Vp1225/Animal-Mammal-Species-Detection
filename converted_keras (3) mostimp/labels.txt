@@ -1,0 +1,44 @@
+0 African Elephant
+1 Alpaca
+2 American Bison
+3 American Curl Cat
+4 Anteater
+5 Armadillo
+6 Baboon
+7 Badger
+8 Balinese Cat
+9 Blue Whale
+10 Brown Bear
+11 Camel
+12 Dolphin
+13 Giraffe
+14 Groundhog
+15 Highland Cattle
+16 Horse
+17 Jackal
+18 Kangaroo
+19 Koala
+20 Lion
+21 Manatee
+22 Mongoose
+23 Mountain Goat
+24 Opossum
+25 Orangutan
+26 Otter
+27 Polar Bear
+28 Porcupine
+29 Red Panda
+30 Rhinoceros
+31 Sea Lion
+32 Snow Leopard
+33 Squirrel
+34 Sugar Glider
+35 Tapir
+36 Vampire Bat
+37 Vicuna
+38 Walrus
+39 Warthog
+40 Water Buffalo
+41 Wildebeest
+42 Yak
+43 Zebra

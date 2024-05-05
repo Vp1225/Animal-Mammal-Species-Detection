@@ -1,0 +1,136 @@
+['african_elephant', 'alpaca', 'american_bison', 'anteater', 'arctic_fox', 'armadillo', 'baboon', 'badger', 'blue_whale', 'brown_bear', 'camel', 'dolphin', 'giraffe', 'groundhog', 'highland_cattle', 'horse', 'jackal', 'kangaroo', 'koala', 'manatee', 'mongoose', 'mountain_goat', 'opossum', 'orangutan', 'otter', 'polar_bear', 'porcupine', 'red_panda', 'rhinoceros', 'sea_lion', 'seal', 'snow_leopard', 'squirrel', 'sugar_glider', 'tapir', 'vampire_bat', 'vicuna', 'walrus', 'warthog', 'water_buffalo', 'weasel', 'wildebeest', 'wombat', 'yak', 'zebra']
+
+african_elephant
+African elephants are the largest animals walking the Earth. Their herds wander through 37 countries in Africa. They are easily recognized by their trunk that is used for communication and handling objects. And their large ears allow them to radiate excess heat. Upper incisor teeth develop into tusks in African elephants and grow throughout their lifetime. There are two species of African elephants—the savanna (or bush) elephant and the forest elephant. Savanna elephants are larger than forest elephants, and their tusks curve outwards. In addition to being smaller, forest elephants are darker and their tusks are straighter and point downward. There are also differences in the size and shape of the skull and skeleton between the two species.
+
+alpaca
+Alpacas are slender-bodied animals with long legs and necks, small heads and large, pointed ears. They are covered in a soft fleece that is virtually free of guard hair and occurs in a variety of colors. Alpacas have soft, padded feet that leave even the most delicate grasses and terrain undamaged as they graze. Alpacas are the smallest of the domesticated camelid species. Adult alpacas usually range from 100 to 200 pounds (45 to 90 kilograms). Their head and body length ranges from 47 to 85 inches (1.2 to 2.2 meters), and their tail length ranges from 6 to 10 inches (150 to 220 millimeters). Their shoulder height is typically 32 to 40 inches (0.8 to 1.1 meters). 
+
+american_bison
+The largest terrestrial animals in North America, bison are characterized by a hump over the front shoulders and slimmer hindquarters. Both male and female bison have a single set of short, sharply pointed, hollow horns that curve outward and up from the sides of the massive head. The head, neck, forelegs, and front parts of the body have a thick coat of long, dark hair. The adult bull adds to this thick coat with a black beard about one foot long. The rear part of the body is covered with much shorter hair. The shaggy head is the most heavily insulated part of their body, which has adapted as such to withstand blizzards as the animal stands facing into the wind. Heavy coats are shed in the spring as the animals roll to loosen the hair, which falls off in gobs.
+
+anteater
+Giant anteaters have a long, distinctive snout with a 2-foot-long tongue and no teeth. They may have diminished senses of hearing and sight, but they have a highly developed sense of smell. Giant anteaters protect their sharp front claws by tucking them into their palms and walking on their front knuckles. Their back feet and claws are more similar to bears (they only knuckle walk with their front feet). They walk in a slow, shuffling gait but when necessary can gallop at over 30 miles per hour (48 kilometers per hour). They can also climb and swim.
+
+arctic_fox
+Arctic foxes live on the land and sea ice within the Arctic Circle. Winter in the Arctic is unlike winter in most parts of the world. From October to February, the sun never rises to shine warmth and light. The arctic fox is found in treeless coastal areas of Alaska from the Aleutian Islands north to Point Barrow and east to the Canada border.
+
+armadillo
+Armadillos are the only living mammals that wear such shells. Closely related to anteaters and sloths, armadillos generally have a pointy or shovel-shaped snout and small eyes. They vary widely in size and color, from the 6-inch-long, salmon-colored pink fairy armadillo to the 5-foot-long, dark-brown giant armadillo. Others have black, red, gray, or yellowish coloring. Most species dig burrows and sleep prolifically, up to 16 hours per day, foraging in the early morning and evening for beetles, ants, termites, and other insects.
+
+baboon
+Baboons are opportunistic eaters and, fond of crops, become destructive pests to many African farmers. They eat fruits, grasses, seeds, bark, and roots, but also have a taste for meat. They eat birds, rodents, and even the young of larger mammals, such as antelopes and sheep. Baboons are some of the world's largest monkeys, and males of different species average from 33 to 82 pounds. Baboon bodies are 20 to 40 inches long, not including substantial tails of varying lengths.
+
+badger
+Honey badgers, also known as ratels, are related to skunks, otters, ferrets, and other badgers. These voracious omnivores get their name from their fondness for feeding on honey and honeybee larvae. They also eat insects, amphibians, reptiles, birds, and mammals, as well as roots, bulbs, berries, and fruits. Though they hunt for their own food most of the time, they’ll happily steal from other carnivores or scavenge the kills of bigger animals when the opportunity arises. Their prominent, sharp teeth, long foreclaws, and stocky build allow them to easily rip meat from bone.
+
+blue_whale
+Blue whales are the largest animals ever known to have lived on Earth. These magnificent marine mammals rule the oceans at up to 100 feet long and upwards of 200 tons. Their tongues alone can weigh as much as an elephant. Blue whales are baleen whales, which means they have fringed plates of fingernail-like material, called baleen, attached to their upper jaws. The giant animals feed by first gulping an enormous mouthful of water, expanding the pleated skin on their throat and belly to take it in.
+
+brown_bear
+Brown bears dig dens for winter hibernation, often holing up in a suitable hillside. Females, or she-bears, den while pregnant and give birth during this winter rest, usually to a pair of cubs. Brown bear cubs nurse on their mother's milk until spring and stay with her for some two and a half years—so females only reproduce once every three years. The world's largest brown bears are found in coastal British Columbia and Alaska, and on islands such as Kodiak.
+
+camel
+Camels can survive for long periods of time without food or water. They can easily carry an extra 200 pounds and can walk about 20 miles a day through the harsh desert climate. Camels also provide humans with food (milk and meat) and textiles (fiber and felt from hair).
+
+dolphin
+Dolphins are highly intelligent and social marine mammals that are known for their playful behavior and acrobatic abilities. They are considered one of the most intelligent animals on the planet, with complex social structures, communication abilities, and problem-solving skills. Dolphins feed chiefly on fish and squid, which they track using echolocation, a built-in sonar that bounces sound waves off prey and reveals information like its location, size, and shape. An echolocating bottlenose dolphin can make up to a thousand clicking noises per second.
+
+giraffe
+Giraffes are the world's tallest mammals, Giraffes use their height to good advantage and browse on leaves and buds in treetops that few other animals can reach (acacias are a favorite). Even the giraffe's tongue is long! The 21-inch tongue helps them pluck tasty morsels from branches. Giraffes eat most of the time and, like cows, regurgitate food and chew it as cud. A giraffe eats hundreds of pounds of leaves each week and must travel miles to find enough food.
+
+groundhog
+Groundhogs are widely distributed across North America, ranging as far south as Alabama and as far north as Alaska. They build extensive burrows—anywhere from eight to 66 feet long—with multiple entrances and rooms, including bathrooms. Some groundhogs even have more than one burrow. But these mammals tend to keep to themselves, only seeking one another out when it’s time to mate.
+
+highland_cattle
+Highland cattle originated in the Highlands and west coastal islands of Scotland, areas severe in climate and lashed by the North Atlantic gales. Throughout the long recorded history of Highlands, breeders have taken great care to retain the original characteristics of these cattle. Originally, the breed was divided into two classes, the West Highlands or Kyloe, and the Highlander. Mature bulls can weigh around 1,800 pounds (800 kilograms) in breeding condition and cows 1,100 pounds (500 kilograms).
+
+horse
+Horses are mammals of the family Equidae. They are herbivores, which means they eat grass and other plants. Some plants are dangerous for them like ragwort, lemongrass (oil grass) and sometimes acorns. The common horse is the species Equus caballus. It was domesticated from wild horses by humans at least 5000 years ago. They are large, strong animals, and some breeds are used to pull heavy loads. Racehorses can gallop up to 30 miles an hour. A male horse is a stallion, and a female horse is a mare. The general term for a young horse is foal. A young female horse is a filly, and a young male horse is a colt. A castrated horse is a gelding. Horses have hooves which need protection by horseshoes from hard or rough ground.
+
+jackal
+Jackal, a canine animal, inhabits everywhere, from deserts to savannas and from the mountains to the woodlands. They are opportunistic omnivores but love to devour flesh. Also, they are loyal to their partners and mate only with them for a lifetime. There is a lot to know about them, and this article will enrich your knowledge regarding their history, ecology, behavior, and reproduction.
+
+kangaroo
+Kangaroos possess powerful hind legs, a long, strong tail, and small front legs. Kangaroos belong to the animal family Macropus, literally "big foot." kangaroos can leap some 30 feet (9 meters) in a single bound, and travel more than 30 miles (48 kilometers) per hour. male kangaroos sometimes fight over potential mates. They often lean back on their sturdy tail and “box” each other with their strong hind legs.
+
+koala
+The koala is an iconic Australian animal. Often called the koala “bear,” this tree-climbing animal is a marsupial—a mammal with a pouch for the development of offspring. Though koalas look fuzzy, their hair is more like the coarse wool of a sheep. Koalas live in the eucalyptus forests of southeastern and eastern Australia. When not sleeping, they’re usually eating. They rely on the eucalyptus tree for both habitat and food. Koalas can eat more than a pound of eucalyptus leaves a day.
+
+manatee
+Manatees are usually seen alone, in pairs, or in small groups of a half dozen or fewer animals. From above the water's surface, the animal's nose and nostrils are often the only thing visible. Manatees never leave the water but, like all marine mammals, they must breathe air at the surface. A resting manatee can remain submerged for up to 15 minutes, but while swimming, it must surface every three or four minutes.
+
+mongoose
+Mongooses are primarily found in Africa, their range covering most of the continent. Some species occupy parts of southern Asia and the Iberian Peninsula. Mongooses live in burrows and are nondiscriminatory predators, feeding on small animals such as rodents, birds, reptiles, frogs, insects, andworms. Some species supplement their diet with fruits, nuts, and seeds. Creative hunters, they are known to break open bird eggs by throwing them with their forepaws toward a solid object.
+
+mountain_goat
+Mountain goats have distinctive beards and long, warm coats to protect them from cold temperatures and biting mountain winds. Their dazzling white coats provide good camouflage on the snowy heights. During the more moderate summer season goats shed this coat. Mountain goats have cloven hooves with two toes that spread wide to improve balance. Rough pads on the bottom of each toe provide the grip of a natural climbing shoe. Mountain goats are powerful but nimble and can jump nearly 12 feet in a single bound.
+
+opossum
+Opossums are scavengers, and they often visit human homes or settlements to raid garbage cans, dumpsters, and other containers. They are attracted to carrion and can often be spotted near roadkill. Opossums also eat grass, nuts, and fruit. They will hunt mice, birds, insects, worms, snakes, and even chickens. Opossums are excellent tree climbers and spend much of their time aloft. They are aided in this by sharp claws, which dig into bark, and by a long prehensile (gripping) tail that can be used as an extra limb.
+
+orangutan
+The Malay word orangutan means “person of the forest.” These long-haired, orangish primates, found only in Sumatra and Borneo, are highly intelligent and are close relatives of humans. Orangutans have an enormous arm span. A male may stretch his arms some 7 feet from fingertip to fingertip—a reach considerably longer than his standing height of about 5 feet. When orangutans do stand, their hands nearly touch the ground. The Malay word orangutan means “person of the forest.” These long-haired, orangish primates, found only in Sumatra and Borneo, are highly intelligent and are close relatives of humans. 
+
+otter
+The charismatic otter, a member of the weasel family, is found on every continent except Australia and Antarctica. Most are small, with short ears and noses, elongated bodies, long tails, and soft, dense fur. Webbed feet and powerful tails, which act like rudders, make otters strong swimmers. Their nostrils and ears close to keep water out, and waterproof fur keeps them warm. They must carefully groom their fur and furry undercoat to keep them clean and sealed off to water.
+
+polar_bear
+Polar bears roam the Arctic ice sheets and swim in that region's coastal waters. They are very strong swimmers, and their large front paws, which they use to paddle, are slightly webbed. Polar bears live in one of the planet's coldest environments and depend on a thick coat of insulated fur, which covers a warming layer of fat. Fur even grows on the bottom of their paws, which protects against cold surfaces and provides a good grip on ice.
+
+porcupine
+Porcupines have soft hair, but on their back, sides, and tail it is usually mixed with sharp quills. These quills typically lie flat until a porcupine is threatened, then leap to attention as a persuasive deterrent. Porcupines cannot shoot them at predators as once thought, but the quills do detach easily when touched. Many animals come away from a porcupine encounter with quills protruding from their own snouts or bodies. Quills have sharp tips and overlapping scales or barbs that make them difficult to remove once they are stuck in another animal's skin.
+
+red_panda
+Red pandas have shot to viral fame for their adorable looks, but there’s a lot more to these elusive animals than their kitten-like faces and striking reddish-brown coats. Red pandas, which grow to about the size of a house cat, are impressive acrobats that climb and swing on trees in their Asian forest homes, and they once sparked fierce debate about their relationship to giant pandas. Red pandas live in the rainy mountain forests of Nepal, India, Bhutan, northern Myanmar (Burma), and central China. They spend the vast majority of their lives in trees, where they sleep and sunbathe.
+
+rhinoceros
+Rhinoceros species are large, herbivorous mammals that are native to Southeast Asia. They can be found in tropical grasslands, forests, and even dense rainforests. Rhinoceros is the only genus in Rhinocerotidae to possess one horn, incisors, and lower canines. Both species are very similar in appearance to one another, with R.unicornis being much larger in size. They weight upto  3000 kg.
+
+sea_lion
+Sea lions live along the coastlines and islands of the Pacific Ocean. These fabulously aquatic mammals are extremely fit for what might seem like a harsh marine existence to us. A reflective membrane at the back of the eye acts as a mirror, bouncing what little light they find in the ocean back through the eye a second time. A sea lion’s sleek body is perfect for diving deep in the ocean (up to 600 feet, or 180 meters) in search of tasty fish and squid.
+
+seal
+Seal are known as Pinnipeds. Pinnipeds can be found on every continent on Earth, though most species occur in cold-water environments. Thick layers of fat, also known as blubber, keep the animals warm, in addition to dense fur. Walruses are the exception to the rule, as these large, tusked pinnipeds have nearly hairless bodies.
+
+snow_leopard
+Snow leopards can be found throughout high mountain ranges, including the Himalayas and the southern Siberian mountains in Russia. They can also be found in the Tibetan Plateau and across a range that stretches from China to the mountains of Central Asia. Snow leopards prey upon the blue sheep (bharal) of Tibet and the Himalayas, as well as the mountain ibex found over most of the rest of their range. Though these powerful predators can kill animals three times their weight, they also eat smaller fare, such as marmots, hares, and game birds.
+
+squirrel
+Squirrels are familiar to almost everyone. Tree squirrels are commonly seen everywhere from woodlands to city parks. Though they are terrific climbers, these squirrels do come to the ground in search of fare such as nuts, acorns, berries, and flowers. They also eat bark, eggs, or baby birds. Tree sap is a delicacy to some species. squirrels have four front teeth that never stop growing so they don't wear down from the constant gnawing. Tree squirrels are the types most commonly recognized, often seen gracefully scampering and leaping from branch to branch.
+
+sugar_glider
+Sugar gliders are palm-size possums that can glide half the length of a soccer pitch in one trip. These common, tree-dwelling marsupials are native to tropical and cool-temperate forests in Australia, Indonesia, and Papua New Guinea. Their “wings” are made from a thin skin stretched between the fifth forefinger and back ankle, and they use their bushy tails as rudders as they soar through the air. 
+
+tapir
+Tapirs look something like pigs with trunks, but they are actually related to horses and rhinoceroses. This eclectic lineage is an ancient one—and so is the tapir itself. Scientists believe that these animals have changed little over tens of millions of years. Though they appear densely built, tapirs are at home in the water and often submerge to cool off. They are excellent swimmers and can even dive to feed on aquatic plants. They also wallow in mud, perhaps to remove pesky ticks from their thick hides.
+
+vampire_bat
+Bats are the only mammals that can fly, but vampire bats have an even more interesting distinction—they are the only mammals that feed entirely on blood. These notorious bats sleep during the day in total darkness, suspended upside down from the roofs of caves. They typically gather in colonies of about 100 animals, but sometimes live in groups of 1,000 or more. Young vampire bats feed not on blood but on milk. They cling tightly to their mothers, even in flight, and consume nothing but her milk for about three months.
+
+vicuna
+The Vicuña is one of the smallest members of the camel family, Camelidae, which also includes its domestic relatives, the llama and the alpaca, as well as the wild guanaco. The vicuña is native to the high alpine areas of the Andes in South America.
+
+walrus
+Walruses use their iconic long tusks for a variety of reasons, each of which makes their lives in the Arctic a bit easier. They use them to haul their enormous bodies out of frigid waters, thus their “tooth-walking” label, and to break breathing holes into ice from below. Their tusks, which are found on both males and females, can extend to about three feet, and are, in fact, large canine teeth, which grow throughout their lives. Male walruses, or bulls, also employ their tusks aggressively to maintain territory and, during mating season, to protect their harems of females, or cows.
+
+warthog
+Warthogs are members of the same family as domestic pigs, but present a much different appearance. These sturdy hogs are not among the world's most aesthetically pleasing animals—their large, flat heads are covered with "warts," which are actually protective bumps. Warthogs also sport four sharp tusks. They are mostly bald, but they do have some sparse hair and a thicker mane on their backs.
+
+water_buffalo
+The water buffalo, or Asian buffalo, as it is often called, is the largest member of the Bovini tribe, which includes yak, bison, African buffalo, various species of wild cattle, and others. Standing 5 to 6.2 feet tall at the shoulder, wild water buffalo are formidable mammals with sparse gray-black coats. Males carry enormous backward-curving, crescent-shaped horns stretching close to 5 feet long with deep ridges on their surface.
+
+weasel
+Weasels may look adorable, but they make light work of eating voles, mice and birds! They are related to otters and stoats, which is obvious thanks to their long slender bodies and short legs. They like to eat voles, mice and small birds. They belong to a group of animals known as mustelids.
+
+wildebeest
+The Wildebeest is a member of the antelope family. They have a large, box-like head with curving horns. The front end of their body is heavily built, while the hindquarters are slender with spindly legs. They have a gray coat and a black mane as well as a beard that can be black or white. There are several races of wildebeest. 
+
+wombat
+The common wombat—also called the bare-nosed wombat to distinguish it from the two other species of wombat, both of which have hairy-noses—is a large, stocky mammal found in open grasslands, mountains, and forests in Australia and nearby islands. Wombats are marsupials, or animals whose babies are born early and continue to develop in a special pouch outside of the mother’s body. Unlike other marsupials such as kangaroos and koalas, the opening of a wombat’s pouch faces her rear rather than her head to prevent it filling with dirt when the mother is digging.
+
+yak
+A yak is an animal that has long hair with short legs. It comes under the category of cattle, buffalo, and bison. Yak are mostly found in high-altitude areas such as Tibet, and Central Asia. Since they mostly live in cold areas with less number of plants they have to travel a large distance in search of grasses to eat. In the winter season, they sometimes eat the snow.
+
+zebra
+Zebras are social animals that spend time in herds. They graze together, primarily on grass, and even groom one another. They live in small family groups consisting of a male (stallion), several females, and their young. These units may combine with others to form awe-inspiring herds thousands of head strong, but family members will remain close within the herd.

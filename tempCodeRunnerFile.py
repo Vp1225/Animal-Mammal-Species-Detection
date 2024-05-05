@@ -1,0 +1,1 @@
+C:\\Users\\ADMIN\\Desktop\\Animal(mammal) species detection\\mammals

@@ -1,0 +1,4 @@
+'African Elephant','Alpaca','American Bison','American Curl Cat','Anteater','Armadillo','Baboon','Badger','Balinese Cat','Blue Whale','Brown Bear','Camel','Dolphin','Giraffe','Groundhog','Highland Cattle','Horse','Jackal','Kangaroo','Koala','Lion','Manatee','Mongoose','Mountain Goat','Opossum','Orangutan','Otter','Polar Bear','Porcupine','Red Panda','Rhinoceros','Sea Lion','Snow Leopard','Squirrel','Sugar Glider','Tapir','Vampire Bat','Vicuna','Walrus','Warthog','Water Buffalo','Wildebeest','Yak','Zebra'
+
+47
+into 43now.
