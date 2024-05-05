@@ -7,9 +7,6 @@ from PIL import Image
 from sklearn.metrics import accuracy_score, f1_score, precision_score
 import random
 
-# Pyperclip
-import pyperclip
-
 @st.cache_resource
 def get_img_as_base64(file):
     with open(file, "rb") as f:
@@ -103,10 +100,6 @@ class_names_formatted = [name.replace('_', ' ').capitalize() for name in class_n
 st.sidebar.header('Animal (Mammal) Species Names')
 st.title('Animal (Mammal) Species Detection')
 selected_animal = st.sidebar.selectbox("Select Animal", class_names_formatted)
-
-if st.sidebar.button("Copy to Clipboard"):
-    pyperclip.copy(selected_animal)
-    st.sidebar.write(f"Copied {selected_animal} to clipboard!")
 
 uploaded_file = st.file_uploader("Upload the Image...", type=["jpg", "jpeg", "png"])
 
