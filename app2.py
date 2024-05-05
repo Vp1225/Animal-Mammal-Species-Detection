@@ -6,6 +6,7 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 from sklearn.metrics import accuracy_score, f1_score, precision_score
 import random
+import pyperclip
 
 @st.cache_resource
 def get_img_as_base64(file):
@@ -102,7 +103,7 @@ st.title('Animal (Mammal) Species Detection')
 selected_animal = st.sidebar.selectbox("Select Animal", class_names_formatted)
 
 if st.sidebar.button("Copy to Clipboard"):
-    # Simulate copying to clipboard
+    pyperclip.copy(selected_animal)
     st.sidebar.write(f"Copied {selected_animal} to clipboard!")
 
 uploaded_file = st.file_uploader("Upload the Image...", type=["jpg", "jpeg", "png"])
