@@ -6,6 +6,8 @@ from tensorflow.keras.preprocessing import image
 from PIL import Image
 from sklearn.metrics import accuracy_score, f1_score, precision_score
 import random
+
+# Pyperclip
 import pyperclip
 
 @st.cache_resource
@@ -17,30 +19,30 @@ def get_img_as_base64(file):
 st.set_page_config(layout="wide")
 
 video_html = """
-    <style>
+<style>
 
-    #bgvideo {
-      position: fixed;
-      right: 0;
-      bottom: 0;
-      min-width: 100%; 
-      min-height: 100%;
-    }
+#bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
 
-    .content {
-      position: fixed;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.5);
-      color: #f1f1f1;
-      width: 100%;
-      padding: 20px;
-    }
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
 
-    </style>    
-    <video autoplay muted loop id="bgvideo">
-      <source src="https://www.pexels.com/download/video/4483543/" type="video/mp4">
-      Your browser does not support HTML5 video.
-    </video>
+</style>    
+<video autoplay muted loop id="bgvideo">
+  <source src="https://www.pexels.com/download/video/4483543/" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 """
 
 st.markdown(video_html, unsafe_allow_html=True)
@@ -143,12 +145,14 @@ if uploaded_file is not None:
             
         wikipedia_link = get_wikipedia_link(predicted_label_sentence_case)
         st.markdown(f"<h5 style='text-align: center;'>Learn more on <a href='{wikipedia_link}' style='color: #3366cc;'>{predicted_label_sentence_case}</a>.</h5>", unsafe_allow_html=True)
+        
+        predicted_label_lower = predicted_label_sentence_case.lower()
 
-        predicted_label_lower = predicted_label_sentence_case.lower()  # Convert to lowercase
-        if predicted_label_lower.lower() == 'tiger':
+        if predicted_label_lower.lower() == 'Tiger':
             true_label_index = [name.lower() for name in class_names].index(predicted_label_lower)
             true_label_one_hot = np.zeros_like(predictions)
             true_label_one_hot[:, true_label_index] = 1
+            
             acc_score = accuracy_score(true_label_one_hot, predictions.round())
             f1 = f1_score(true_label_one_hot, predictions.round(), average='micro')
             st.write(f"Accuracy Score: {acc_score:.6f}")
