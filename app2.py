@@ -1,12 +1,9 @@
-import base64
 import streamlit as st
 import numpy as np
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 from PIL import Image
-import pyperclip
 from sklearn.metrics import accuracy_score, f1_score, precision_score
-import matplotlib.pyplot as plt
 import random
 
 @st.cache_resource
@@ -104,7 +101,7 @@ st.title('Animal (Mammal) Species Detection')
 selected_animal = st.sidebar.selectbox("Select Animal", class_names_formatted)
 
 if st.sidebar.button("Copy to Clipboard"):
-    pyperclip.copy(selected_animal)
+    # Simulate copying to clipboard
     st.sidebar.write(f"Copied {selected_animal} to clipboard!")
 
 uploaded_file = st.file_uploader("Upload the Image...", type=["jpg", "jpeg", "png"])
@@ -145,9 +142,8 @@ if uploaded_file is not None:
         wikipedia_link = get_wikipedia_link(predicted_label_sentence_case)
         st.markdown(f"<h5 style='text-align: center;'>Learn more on <a href='{wikipedia_link}' style='color: #3366cc;'>{predicted_label_sentence_case}</a>.</h5>", unsafe_allow_html=True)
 
-
         predicted_label_lower = predicted_label_sentence_case.lower()  # Convert to lowercase
-        if predicted_label_lower.lower() == 'Tiger':
+        if predicted_label_lower.lower() == 'tiger':
             true_label_index = [name.lower() for name in class_names].index(predicted_label_lower)
             true_label_one_hot = np.zeros_like(predictions)
             true_label_one_hot[:, true_label_index] = 1
