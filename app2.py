@@ -92,7 +92,7 @@ def get_wikipedia_link(search_term):
     search_url = f"https://en.wikipedia.org/wiki/{search_term.replace(' ', '_')}"
     return search_url
 
-model_path = r'C:\Users\ADMIN\Desktop\backup - backup\Animal(mammal) species detection\converted_keras (3) mostimp\keras_model.h5'   
+model_path = r'keras_model.h5'   
 model = load_model(model_path)
 
 class_names = ['African Elephant','Alpaca','American Bison','American Curl Cat','Anteater','Armadillo','Baboon','Badger','Balinese Cat','Blue Whale','Brown Bear','Camel','Dolphin','Giraffe','Groundhog','Highland Cattle','Horse','Jackal','Kangaroo','Koala','Lion','Manatee','Mongoose','Mountain Goat','Opossum','Orangutan','Otter','Polar Bear','Porcupine','Red Panda','Rhinoceros','Sea Lion','Snow Leopard','Squirrel','Sugar Glider','Tapir','Vampire Bat','Vicuna','Walrus','Warthog','Water Buffalo','Wildebeest','Yak','Zebra']
