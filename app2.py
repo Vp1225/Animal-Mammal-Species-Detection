@@ -71,24 +71,6 @@ right: 2rem;
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-# JavaScript code to copy text to clipboard
-js_code = """
-function copyToClipboard(text) {
-    navigator.clipboard.writeText(text)
-        .then(() => {
-            console.log('Text copied to clipboard successfully');
-        })
-        .catch(err => {
-            console.error('Unable to copy text to clipboard: ', err);
-        });
-}
-
-copyToClipboard("Your text goes here");
-"""
-
-# Execute JavaScript code
-st.write(js_code, unsafe_allow_html=True)
-
 def load_and_prepare_image(uploaded_file, target_size=(224, 224)):
     img = Image.open(uploaded_file).convert('RGB')
     img = img.resize(target_size)
