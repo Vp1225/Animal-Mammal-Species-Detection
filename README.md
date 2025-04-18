@@ -23,4 +23,4 @@ Then run the Web App by using this command -
 
 `- streamlit run app2.py`
 
-View our Project- [Animal Mammal Species Detection](https://animal-mammal-species-detection.streamlit.app/)
+View our Project- https://animal-mammal-species-detection.streamlit.app/
